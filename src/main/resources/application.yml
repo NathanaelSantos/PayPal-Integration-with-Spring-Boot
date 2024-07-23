@@ -1,0 +1,12 @@
+paypal:
+  client-id: AXK8gbI167ViJgxZ1UXimKdxhNFf73YfXKjsmrvlmKH8jwYTu2Rg_t8P4XInqjHbfL7N13ERRtGlcEAZ
+  client-secret: EFLtY4OhuCjUa3EHgL_kpJRsxW410I9SK22XHlkIea7gw2-zQSf9gGy534zLCoVOjoSb4C_FGTGfYcxj
+  client-mode: sandbox
+
+spring:
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+
+
+
